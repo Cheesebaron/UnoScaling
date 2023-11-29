@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "KioskUno",
+  "display": "standalone",
+  "name": "KioskUno",
+  "short_name": "KioskUno",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

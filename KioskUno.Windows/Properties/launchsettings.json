@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"KioskUno.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"KioskUno.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
